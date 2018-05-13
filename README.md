@@ -5,4 +5,4 @@ This apps was shipped to IOS apps on 2016, with a record rate score of 4.6.
 ![alt text](screenshots/stat.png "Apple Developer account stat")
 
 # Statistic Map
-![alt text](screenshots/stat2.png "stat map")
+![alt text](screenshots/statmap.png "stat map")
